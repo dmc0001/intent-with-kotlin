@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">multiActivities</string>
+    <string name="go_to_next_page">Go to next page</string>
+    <string name="activity_two">Activity two</string>
+    <string name="print_something">print something</string>
+</resources>
